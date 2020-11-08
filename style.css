@@ -1,0 +1,12 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.rectangle {
+    background-color: black;
+    font-size: xxx-large;
+    font-weight: bold;
+    color: white;
+    padding: 16px;
+}
